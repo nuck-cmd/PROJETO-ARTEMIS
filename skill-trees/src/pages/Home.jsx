@@ -1,5 +1,5 @@
 
-import './App.css'
+import '../App.css'
 
 const skills = [
   { name: 'BASE', x: 50, y: 88, state: 'unlocked' },
