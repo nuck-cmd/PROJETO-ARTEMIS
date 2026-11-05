@@ -1,8 +1,8 @@
 
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 
-import Home from './pages/home.jsx'
-import RoleSelection from './pages/roleselection.jsx'
+import Home from './pages/Home.jsx'
+import RoleSelection from './pages/RoleSelection.jsx'
 import MasterDashboard from './pages/MasterDashboard'
 import PlayerDashboard from './pages/PlayerDashboard'
 
